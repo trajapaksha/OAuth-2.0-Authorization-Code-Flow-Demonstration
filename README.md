@@ -1,4 +1,4 @@
-# OAuth 2.0 Demonstration
+# OAuth 2.0 Authorization Code Flow Demonstration
 
 <h3>For Testing,</h3>
 <ul>
